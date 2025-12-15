@@ -1,5 +1,5 @@
 # Python-Network-Port-Scanner
-A Python-based network port scanner to identify open ports and their services on a target host. Built to learn network programming and cybersecurity concepts.
+A Python-based network port scanner to identify open ports and their services on a target host.
 
 ## Features
 - Scans ports using multithreading for speed.
